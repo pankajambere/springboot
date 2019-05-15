@@ -1,0 +1,12 @@
+2019-02-23 16:04:38.216  INFO 11260 --- [restartedMain] com.springboot.Application               : Starting Application on DESKTOP-MCDECAQ with PID 11260 (C:\Users\Pankaj\Documents\GitHub\springboot\src\web\out\production\classes started by Pankaj in C:\Users\Pankaj\Documents\GitHub\springboot\src)
+2019-02-23 16:04:38.220  INFO 11260 --- [restartedMain] com.springboot.Application               : The following profiles are active: hsqldb,dev
+2019-02-23 16:04:38.269  INFO 11260 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-02-23 16:04:38.712  INFO 11260 --- [restartedMain] com.springboot.config.AppConfiguration   : Initialized application: SpringBootApp
+2019-02-23 16:04:38.730  INFO 11260 --- [restartedMain] com.springboot.config.AppConfiguration   : Description: SpringBootApp is first sample application. Currently running in dev environment.
+2019-02-23 16:04:38.774  INFO 11260 --- [restartedMain] com.springboot.Application               : Started Application in 1.293 seconds (JVM running for 2.145)
+2019-02-23 16:05:20.246  INFO 14328 --- [restartedMain] com.springboot.Application               : Starting Application on DESKTOP-MCDECAQ with PID 14328 (C:\Users\Pankaj\Documents\GitHub\springboot\src\web\out\production\classes started by Pankaj in C:\Users\Pankaj\Documents\GitHub\springboot\src)
+2019-02-23 16:05:20.250  INFO 14328 --- [restartedMain] com.springboot.Application               : The following profiles are active: hsqldb,dev
+2019-02-23 16:05:20.304  INFO 14328 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2019-02-23 16:05:20.821  INFO 14328 --- [restartedMain] com.springboot.config.AppConfiguration   : Initialized application: SpringBootApp
+2019-02-23 16:05:20.827  INFO 14328 --- [restartedMain] com.springboot.config.AppConfiguration   : Description: SpringBootApp is first sample application. Currently running in dev environment.
+2019-02-23 16:05:20.867  INFO 14328 --- [restartedMain] com.springboot.Application               : Started Application in 1.395 seconds (JVM running for 2.224)

@@ -1,0 +1,8 @@
+<!DOCTYPE html>
+<html lang ="en">
+<body>
+  <h1> Welcome</h1>
+    No users added yet! Please use REST service to do so, for e.g. POST {"name": "John"} using /users or the form below.
+
+</body>
+</html>
